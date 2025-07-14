@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'setwd("/home/jovyan/qj4xr_src/01 Syntax")' >> /home/jovyan/.Rprofile
